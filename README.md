@@ -1,7 +1,5 @@
 👋 Hey! I am Luciano!
 
-:man_scientist: I am seeking a position as a data scientist in Canada.
-
 :man_student: I’m currently working on my UBC data science capabilities certificate. 
 
 <!--
