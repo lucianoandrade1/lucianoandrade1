@@ -1,7 +1,7 @@
 👋 Hey! I am Luciano!
 
-##:man_student: I’m currently working on my UBC data science capabilities certificate. 
-
+<!--:man_student: I’m currently working on my UBC data science capabilities certificate. 
+-->
 <!--
 **lucarli/lucarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
