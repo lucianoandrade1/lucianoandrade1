@@ -1,7 +1,7 @@
 👋 Hey! I am Luciano!
 
 <table>
-  <tr valign="top" border: 1px solid white>
+  <tr valign="top" border: "0px solid white" background-color: #96D4D4>
     <th><img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" /></th>
     <th><img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" /></th>
   </tr>
