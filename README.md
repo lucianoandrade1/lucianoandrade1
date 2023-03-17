@@ -1,8 +1,8 @@
 👋 Hey! I am Luciano!
 
 <div>
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" />
+ <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" />
+ <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" />
 </div>
 
 
