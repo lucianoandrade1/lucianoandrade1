@@ -1,7 +1,7 @@
 👋 Hey! I am Luciano!
 
 <table BORDER=0>
-  <tr valign="top">
+  <tr valign="top" BORDER=0>
     <th><img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" /></th>
     <th><img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" /></th>
   </tr>
