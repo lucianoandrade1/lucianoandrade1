@@ -1,17 +1,10 @@
 👋 Hey! I am Luciano!
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+<div style="display: flex; flex-direction: row;">
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" />
+</div>
 
-<table>
-  <tr valign="top">
-    <th><img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" /></th>
-    <th><img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" /></th>
-  </tr>
-</table>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
