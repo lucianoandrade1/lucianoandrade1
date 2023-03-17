@@ -1,5 +1,7 @@
 👋 Hey! I am Luciano!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--:man_student: I’m currently working on my UBC data science capabilities certificate. 
 -->
 <!--
