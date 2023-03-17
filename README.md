@@ -1,6 +1,6 @@
 👋 Hey! I am Luciano!
 
-<div class='container' vertical-align: top;>
+<div>
 <img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" />
 &nbsp;
 &nbsp;
