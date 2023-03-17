@@ -7,7 +7,8 @@
 <br>
 
 :construction:[My Tableau Portfolio](https://public.tableau.com/app/profile/luciano.andrade)
-:books:[My Google Scholar]()
+
+:books:[My Google Scholar](https://scholar.google.com.br/citations?user=I_vG4xIAAAAJ&hl=en)
 
 <!--:man_student: I’m currently working on my UBC data science capabilities certificate. 
 -->
