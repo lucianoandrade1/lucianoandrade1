@@ -2,8 +2,6 @@
 
 <div>
 <img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" />
-&nbsp;
-&nbsp;
 <img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" /></div>
 </div>
 
