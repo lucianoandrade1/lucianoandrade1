@@ -1,9 +1,10 @@
 👋 Hey! I am Luciano!
 
-<div>
-<img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" />
-<img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" />
-</div>
+### GitHub Stats
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact" /></div>
+
+### GitHub Languages
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lucarli&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true" /></div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
