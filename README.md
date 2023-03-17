@@ -6,7 +6,7 @@
 </div>
 <br>
 
-:construction:[My Tableau Portfolio](public.tableau.com/profile/luciano.andrade)
+:construction:[My Tableau Portfolio](https://public.tableau.com/app/profile/luciano.andrade)
 
 <!--:man_student: I’m currently working on my UBC data science capabilities certificate. 
 -->
