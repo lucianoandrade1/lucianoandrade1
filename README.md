@@ -10,8 +10,6 @@
 
 <!--:books: [My Google Scholar](https://scholar.google.com.br/citations?user=I_vG4xIAAAAJ&hl=en)
 -->
-<!--:man_student: I’m currently working on my UBC data science capabilities certificate. 
--->
 <!--
 **lucarli/lucarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
