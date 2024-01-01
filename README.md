@@ -6,11 +6,11 @@
 </div>
 <br>
 
-
+<!--
 :construction: [My Tableau Portfolio](https://public.tableau.com/app/profile/luciano.andrade)
 
 :books: [My Google Scholar](https://scholar.google.com.br/citations?user=I_vG4xIAAAAJ&hl=en)
-
+-->
 <!--
 **lucianoandrade1/lucianoandrade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
