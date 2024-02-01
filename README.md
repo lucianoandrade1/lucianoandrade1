@@ -4,13 +4,11 @@
 - [Github statistics](#stats)
 - <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
 
-### Introduction <a class="anchor" id="intro"></a>
-[TOC](#top)
+### Introduction <a class="anchor" id="intro"></a> [TOC](#top)
 
 👋 Hey! I am Luciano!
 
-### Github statistics  <a class="anchor" id="stats"></a>
-[TOC](#top)
+### Github statistics  <a class="anchor" id="stats"></a> [TOC](#top)
 
 <div align="center" >
  <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoandrade1&layout=compact" />
