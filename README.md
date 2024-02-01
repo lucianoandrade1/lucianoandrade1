@@ -2,7 +2,7 @@
 
 
 
-<a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
+* <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
 
 <div align="center" >
  <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoandrade1&layout=compact" />
