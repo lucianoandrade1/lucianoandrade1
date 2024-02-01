@@ -1,5 +1,6 @@
 # Table of contents
-* - [Introduction](#intro)
+
+- [Introduction](#intro)
 
 
 * <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
@@ -11,6 +12,9 @@
 <br>
 
 <hr>
+
+### Introduction <a class="anchor" id="intro"></a>
+[TOC](#top)
 
 👋 Hey! I am Luciano!
 
