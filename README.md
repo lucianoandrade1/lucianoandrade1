@@ -6,6 +6,8 @@
 </div>
 <br>
 
+<hr />
+
 <!--
 :construction: [My Tableau Portfolio](https://public.tableau.com/app/profile/land)
 
