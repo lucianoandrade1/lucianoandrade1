@@ -1,5 +1,5 @@
 # Table of contents
-* Introduction (#intro)
+* - [Introduction](#intro)
 
 
 * <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
