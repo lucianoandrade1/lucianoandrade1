@@ -1,12 +1,18 @@
 # :page_facing_up: Table Of Contents: <a class="anchor" id="top"></a>
 
 - [Introduction](#intro)
+- [Academic Background](#academic)
 - [Github statistics](#stats)
 - <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
 
 ### Introduction <a class="anchor" id="intro"></a> [TOC](#top)
 
 👋 Hey! I am Luciano! My extensive experience in understanding problems and recommending solutions captivated me by the potential of data science to recommend solutions to improve organizations' products and services. I seek innovative strategies to enhance efficiency, and data science has the resources to discover valuable insights from any business data. I am a permanent resident of Canada, transitioning from academia to the Canadian corporate environment, and my experience and data science education enable me to work efficiently under pressure, prioritize tasks, and respect project deadlines and budgets.
+
+### Academic Background <a class="anchor" id="academic"></a> 
+[TOC](#top)
+
+
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
