@@ -12,7 +12,7 @@
 :books: [My Google Scholar](https://scholar.google.com.br/citations?user=I_vG4xIAAAAJ&hl=en)
 -->
 
-:construction: [BrainStation Capstone Project]([https://public.tableau.com/app/profile/land](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection)
+:construction: [BrainStation Capstone Project]([https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection)
 
 <!--
 **lucianoandrade1/lucianoandrade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
