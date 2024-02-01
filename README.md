@@ -1,4 +1,4 @@
-# Table Of Contents: <a class="anchor" id="top"></a>
+# :page_facing_up: Table Of Contents: <a class="anchor" id="top"></a>
 
 - [Introduction](#intro)
 - [Github statistics](#stats)
