@@ -1,3 +1,11 @@
+hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #333;  /* old IE */
+  background-color: #333;  /* Modern Browsers */
+}
+
 # Table Of Contents: <a class="anchor" id="top"></a>
 
 - [Introduction](#intro)
