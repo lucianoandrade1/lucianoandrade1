@@ -12,7 +12,9 @@
 ### Academic Background <a class="anchor" id="academic"></a> 
 [TOC](#top)
 
+Before transitioning into Data Science, I spent 13 years as a software developer and over 10 years in academia. I did a BSc in Computer Science, an M.Sc., and a  D.Sc. in Science with enfaces in Artificial Intelligence. Throughout my academic years, I acquired a wide range of hard and soft skills that are assets for industry. Some of these skills are as follows:
 
+* ghgh
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
