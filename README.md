@@ -4,7 +4,7 @@
 - [Github statistics](#stats)
 - <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
 
-### Introduction <a class="anchor" id="intro"></a> [TOC](#top)
+### :link: Introduction <a class="anchor" id="intro"></a> [TOC](#top)
 
 👋 Hey! I am Luciano!
 
@@ -22,8 +22,6 @@
 
 :books: [My Google Scholar](https://scholar.google.com.br/citations?user=I_vG4xIAAAAJ&hl=en)
 -->
-
-
 
 :construction: [BrainStation Capstone Project](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection)
 
