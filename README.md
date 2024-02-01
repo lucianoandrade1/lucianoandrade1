@@ -3,22 +3,18 @@
 - [Introduction](#intro)
 - <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
 
-<hr>
+### Introduction <a class="anchor" id="intro"></a>
+[TOC](#top)
 
-## Github statistics
+👋 Hey! I am Luciano!
+
+### Github statistics  <a class="anchor" id="stats"></a>
 
 <div align="center" >
  <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoandrade1&layout=compact" />
  <img align=top style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=lucianoandrade1&show_icons=true&hide=issues,contribs&count_private=true" />
 </div>
 <br>
-
-<hr>
-
-### Introduction <a class="anchor" id="intro"></a>
-[TOC](#top)
-
-👋 Hey! I am Luciano!
 
 <!--
 :construction: [My Tableau Portfolio](https://public.tableau.com/app/profile/land)
