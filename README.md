@@ -33,7 +33,10 @@ Why Collaborate?
 
 The dynamics of modern labour  are forcing businesses, especially those with a focus in tech, to place ever-greater emphasis on collaboration & flexibility. 
 
+Industry Partner
+
 WhatsApp
+
 - An instant messaging service that does not require cell data.
 - Reported to have more than 2 billion monthly active users globally and is one of the most popular mobile messenger apps in the world.
 - Allows users to send text, voice messages and video messages, make voice and video calls, and share images, documents, user locations, and other content.
