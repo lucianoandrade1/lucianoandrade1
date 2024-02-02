@@ -37,7 +37,7 @@ You can create a new feature for your given target audience, improve upon one th
 ### :construction: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
-<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/CreditCardPurchase.png" width="550" height="400"/>
+<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/CreditCardPurchase.png" width="80%" height="80%"/>
 
 Credit card fraud occurs when a customer uses a third party's credit card or information to make unauthorized purchases or cash advances. Credit card fraud happens both online and in physical stores. Merchants can avoid problems and bad reputations when they identify fraudulent use of credit cards in their payment environment. Credit card fraud detection is critical for companies to safeguard their customers' purchases and funds by detecting fraud before or as it occurs.
 
