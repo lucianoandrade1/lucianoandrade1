@@ -30,6 +30,7 @@ This experience is an opportunity to showcase your skills, learn new concepts fr
 More than anything, you are preparing and building skills to succeed in the future of work.
 
 Why Collaborate?
+
 The dynamics of modern labour  are forcing businesses, especially those with a focus in tech, to place ever-greater emphasis on collaboration & flexibility. 
 
 WhatsApp
