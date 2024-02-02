@@ -5,7 +5,8 @@
 - [BrainStation Capstone](#capstone)
 - [Github statistics](#stats)
   
-### :wave: Introduction <a class="anchor" id="intro"></a> [TOC](#top)
+### :wave: Introduction <a class="anchor" id="intro"></a> 
+[TOC](#top)
 
 Hey! I am Luciano! My extensive experience in understanding problems and recommending solutions captivated me by the potential of data science to recommend solutions to improve organizations' products and services. I seek innovative strategies to enhance efficiency, and data science has the resources to discover valuable insights from any business data. I am a permanent resident of Canada, transitioning from academia to the Canadian corporate environment, and my experience and data science education enable me to work efficiently under pressure, prioritize tasks, and respect project deadlines and budgets.
 
