@@ -20,7 +20,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### :construction: [BrainStation Capstone Project](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
-nnn
+![alt text](https://drive.google.com/file/d/1zJGoKrJ2ybvxtmIdwBWjweX--u1LlKe4/view?usp=drive_link)
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
