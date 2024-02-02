@@ -20,7 +20,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 
 ### :construction: WhatSapp|BrainStation Industry Hackathon
 
-<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="550" height="400"/>
+<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="50%" height="50%"/>
      
 WhatsApp
 - An instant messaging service that does not require cell data.
