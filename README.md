@@ -20,7 +20,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### Projects
 <hr>
 
-### :construction: ${{\color{green}WhatSapp}}$ | BrainStation Industry Hackathon
+### <img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/whatsappicon.png" width="10%" height="10%"/> ${{\color{green}WhatSapp}}$ | BrainStation Industry Hackathon
 
 The Industry Project is a 24-hour collaborative tech sprint challenging BrainStation students to create a digital solution for one of BrainStation’s Industry Partners.
 
