@@ -25,7 +25,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### :construction: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection]() <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
-<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" 
+<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/CreditCardPurchase.png" 
      width="550" 
      height="400"/>
 
