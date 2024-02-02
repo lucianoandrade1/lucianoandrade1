@@ -2,8 +2,9 @@
 
 - [Introduction](#intro)
 - [Academic Background](#academic)
-- [BrainStation Industry Project](#hackathon)
-- [BrainStation Capstone Project](#capstone)
+- [Projects](#projects)
+    * [BrainStation Industry Project](#hackathon)
+    * [BrainStation Capstone Project](#capstone)
 - [Github statistics](#stats)
   
 ### :wave: Introduction <a class="anchor" id="intro"></a> 
@@ -18,7 +19,8 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 
 * ghgh
 
-### Projects
+### Projects <a class="anchor" id="projects">
+[TOC](#top)
 <hr>
 
 ### <img align="left" src="https://github.com/lucianoandrade1/media/blob/main/whatsappicon.png" width="3%" height="3%"/> BrainStation Industry Project | $\color{green}{WhatsApp}$ <a class="anchor" id="hackathon"></a>
