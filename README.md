@@ -21,7 +21,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 [TOC](#top)
 
 <img src="https://media.istockphoto.com/id/1282639238/photo/close-up-shot-of-customer-hand-using-dummy-credit-card-for-payment-to-waitress-at-cashier-in.jpg?s=612x612&w=0&k=20&c=d6kF0a5OFbnsjSFSGpvS3Z2K_Pk8PoG3Qz4xL0VmClw=" 
-     width="500" 
+     width="550" 
      height="400" />
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
