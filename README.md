@@ -20,7 +20,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### Projects
 <hr>
 
-### :construction: WhatSapp | BrainStation Industry Hackathon
+### :construction: $${\color{green}Green}$$ WhatSapp | BrainStation Industry Hackathon
 
 WhatsApp
 - An instant messaging service that does not require cell data.
