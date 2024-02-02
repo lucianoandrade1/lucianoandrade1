@@ -29,6 +29,9 @@ The Purpose
 This experience is an opportunity to showcase your skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams.
 More than anything, you are preparing and building skills to succeed in the future of work.
 
+Why Collaborate?
+The dynamics of modern labour  are forcing businesses, especially those with a focus in tech, to place ever-greater emphasis on collaboration & flexibility. 
+
 WhatsApp
 - An instant messaging service that does not require cell data.
 - Reported to have more than 2 billion monthly active users globally and is one of the most popular mobile messenger apps in the world.
