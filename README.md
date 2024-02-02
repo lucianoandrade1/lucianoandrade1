@@ -44,7 +44,7 @@ Your team is here for you!
 - Refer back to the Project Toolkit Keep an eye on the schedule. 
 Done is better than perfect.
 
-### :construction: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
+### :construction: $BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> $
 [TOC](#top)
 
 <img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/CreditCardPurchase.png" width="50%" height="50%"/>
