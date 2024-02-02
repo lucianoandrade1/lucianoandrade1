@@ -3,7 +3,7 @@
 - [Introduction](#intro)
 - [Academic Background](#academic)
 - [Github statistics](#stats)
-- <a href="https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection">BrainStation Capstone Project</a>
+- [BrainStation Capstone](#capstone)
 
 ### :wave: Introduction <a class="anchor" id="intro"></a> [TOC](#top)
 
@@ -16,7 +16,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 
 * ghgh
 
-### :construction: [BrainStation Capstone Project](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection)
+### :construction: [BrainStation Capstone Project](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
 nnn
