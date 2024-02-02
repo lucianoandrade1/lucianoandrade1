@@ -36,6 +36,14 @@ How might we encourage the adoption increase the usage of messaging apps for a p
 Considerations...
 You can create a new feature for your given target audience, improve upon one that already exists, or pitch a new strategy to reach these groups (assigned audiences to be announced).
 
+Need help?
+Your team is here for you! 
+- Share obstacles early and often.
+- Contact your Project Manager
+- They can guide you in the right direction.
+- Refer back to the Project Toolkit Keep an eye on the schedule. 
+Done is better than perfect.
+
 ### :construction: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
