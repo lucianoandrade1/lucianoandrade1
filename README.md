@@ -20,8 +20,13 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 
 ### :construction: WhatSapp|BrainStation Industry Hackathon
 
-<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="550" height="400"/>
+<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="550" height="400"/>
      
+WhatsApp
+- An instant messaging service that does not require cell data.
+- Reported to have more than 2 billion monthly active users globally and is one of the most popular mobile messenger apps in the world.
+- Allows users to send text, voice messages and video messages, make voice and video calls, and share images, documents, user locations, and other content.
+- More than 100 billion messages are sent each day on WhatsApp.
 
 
 ### :construction: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
