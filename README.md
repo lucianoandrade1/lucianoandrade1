@@ -20,15 +20,15 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### :construction: BrainStation Capstone Project | [Credit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
+<img  align="right" src="https://media.istockphoto.com/id/1282639238/photo/close-up-shot-of-customer-hand-using-dummy-credit-card-for-payment-to-waitress-at-cashier-in.jpg?s=612x612&w=0&k=20&c=d6kF0a5OFbnsjSFSGpvS3Z2K_Pk8PoG3Qz4xL0VmClw=" 
+     width="550" 
+     height="400"/>
+
 Credit card fraud occurs when a customer uses a third party's credit card or information to make unauthorized purchases or cash advances. Credit card fraud happens both online and in physical stores. Merchants can avoid problems and bad reputations when they identify fraudulent use of credit cards in their payment environment. Credit card fraud detection is critical for companies to safeguard their customers' purchases and funds by detecting fraud before or as it occurs.
 
 It's not always straightforward to agree on what fraud means. Regardless of how you define fraud, most payments are not fraudulent. Most merchants aren't experts at estimating the business impact of fraud.
 
 Using Machine Learning for credit card fraud detection is an opportunity to create more efficient systems to avoid fraud. These systems will prevent fraud and avoid accusing legitimate purchases of fraud, too. This scenario will give the merchants more credibility, generating higher profits.
-
-<img  align="right" src="https://media.istockphoto.com/id/1282639238/photo/close-up-shot-of-customer-hand-using-dummy-credit-card-for-payment-to-waitress-at-cashier-in.jpg?s=612x612&w=0&k=20&c=d6kF0a5OFbnsjSFSGpvS3Z2K_Pk8PoG3Qz4xL0VmClw=" 
-     width="550" 
-     height="400"/>
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
