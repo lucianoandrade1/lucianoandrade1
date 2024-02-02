@@ -71,6 +71,7 @@ It's not always straightforward to agree on what fraud means. Regardless of how 
 
 Using Machine Learning for credit card fraud detection is an opportunity to create more efficient systems to avoid fraud. These systems will prevent fraud and avoid accusing legitimate purchases of fraud, too. This scenario will give the merchants more credibility, generating higher profits.
 
+<hr>
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
 
