@@ -22,14 +22,14 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 
 ### :construction: WhatSapp|BrainStation Industry Hackathon
 
-<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="50%" height="50%"/>
-     
 WhatsApp
 - An instant messaging service that does not require cell data.
 - Reported to have more than 2 billion monthly active users globally and is one of the most popular mobile messenger apps in the world.
 - Allows users to send text, voice messages and video messages, make voice and video calls, and share images, documents, user locations, and other content.
 - More than 100 billion messages are sent each day on WhatsApp.
-
+  
+<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="50%" height="50%"/>
+     
 Problem statement
 
 How might we encourage the adoption increase the usage of messaging apps for a particular demographic?"
