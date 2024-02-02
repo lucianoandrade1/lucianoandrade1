@@ -18,7 +18,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 * ghgh
 
 
-### :contruction: WhatSapp|BrainStation Industry Hackathon
+### :construction: WhatSapp|BrainStation Industry Hackathon
 
 
 
