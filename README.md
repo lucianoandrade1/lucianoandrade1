@@ -28,6 +28,11 @@ WhatsApp
 - Allows users to send text, voice messages and video messages, make voice and video calls, and share images, documents, user locations, and other content.
 - More than 100 billion messages are sent each day on WhatsApp.
 
+Problem statement
+
+How might we encourage the adoption increase the usage of messaging apps for a particular demographic?"
+Considerations...
+You can create a new feature for your given target audience, improve upon one that already exists, or pitch a new strategy to reach these groups (assigned audiences to be announced).
 
 ### :construction: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
