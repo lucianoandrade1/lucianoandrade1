@@ -16,6 +16,9 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 
 * ghgh
 
+### :construction: [BrainStation Capstone Project](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection)
+[TOC](#top)
+
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
 
@@ -31,7 +34,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 :books: [My Google Scholar](https://scholar.google.com.br/citations?user=I_vG4xIAAAAJ&hl=en)
 -->
 
-:construction: [BrainStation Capstone Project](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection)
+
 
 <!--
 **lucianoandrade1/lucianoandrade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
