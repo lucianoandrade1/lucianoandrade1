@@ -20,7 +20,7 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### Projects
 <hr>
 
-### <img align="left" src="https://github.com/lucianoandrade1/media/blob/main/whatsappicon.png" width="3%" height="3%"/> WhatSapp | BrainStation Industry Hackathon
+### <img align="left" src="https://github.com/lucianoandrade1/media/blob/main/whatsappicon.png" width="3%" height="3%"/> WhatsApp | BrainStation Industry Hackathon
 
 The Industry Project is a 24-hour collaborative tech sprint challenging BrainStation students to create a digital solution for one of BrainStation’s Industry Partners.
 
@@ -58,7 +58,7 @@ Your team is here for you!
 - Refer back to the Project Toolkit Keep an eye on the schedule. 
 Done is better than perfect.
 
-### :credit_card: ${BrainStation\ Capstone\ Project}$ | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a>
+### :credit_card: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a>
 [TOC](#top)
 
 <img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/CreditCardPurchase.png" width="50%" height="50%"/>
