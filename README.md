@@ -20,9 +20,36 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### :construction: BrainStation Capstone Project | [Credit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a> 
 [TOC](#top)
 
-<img src="https://media.istockphoto.com/id/1282639238/photo/close-up-shot-of-customer-hand-using-dummy-credit-card-for-payment-to-waitress-at-cashier-in.jpg?s=612x612&w=0&k=20&c=d6kF0a5OFbnsjSFSGpvS3Z2K_Pk8PoG3Qz4xL0VmClw=" 
+     <table cellspacing="10">
+        <tr>
+            <td>
+                <img src="https://media.istockphoto.com/id/1282639238/photo/close-up-shot-of-customer-hand-using-dummy-credit-card-for-payment-to-waitress-at-cashier-in.jpg?s=612x612&w=0&k=20&c=d6kF0a5OFbnsjSFSGpvS3Z2K_Pk8PoG3Qz4xL0VmClw=" 
      width="550" 
-     height="400" ALIGN=”right” />
+     height="400"/>
+            </td>
+            <td>
+                <p>
+                    How many times were you frustrated while looking
+                    out for a good collection of programming/
+                    algorithm/ interview questions? What did you
+                    expect and what did you get? This portal has been
+                    created to provide well written, well thought and
+                    well explained solutions for selected questions.
+                    An IIT Roorkee alumnus and founder of
+                    GeeksforGeeks. He loves to solve programming
+                    problems in most efficient ways. Apart from
+                    GeeksforGeeks, he has worked with DE Shaw and
+                    Co. as a software developer and JIIT Noida as
+                    an assistant professor. It is a good platform
+                    to learn programming. It is an educational
+                    website. Prepare for the Recruitment drive of
+                    product based companies like Microsoft, Amazon,
+                    Adobe etc with a free online placement
+                    preparation course.
+                </p>
+            </td>
+        </tr>
+    </table>
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
