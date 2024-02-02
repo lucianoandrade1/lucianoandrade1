@@ -2,7 +2,7 @@
 
 - [Introduction](#intro)
 - [Academic Background](#academic)
-- [BrainStation Capstone](#capstone)
+- [BrainStation Capstone Project](#capstone)
 - [Github statistics](#stats)
   
 ### :wave: Introduction <a class="anchor" id="intro"></a> 
