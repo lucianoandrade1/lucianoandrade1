@@ -10,12 +10,12 @@
 ### :wave: Introduction <a class="anchor" id="intro"></a> 
 [TOC](#top)
 
-Hey! I am Luciano! My extensive experience in understanding problems and recommending solutions captivated me by the potential of data science to recommend solutions to improve organizations' products and services. I seek innovative strategies to enhance efficiency, and data science has the resources to discover valuable insights from any business data. I am a permanent resident of Canada, transitioning from academia to the Canadian corporate environment, and my experience and data science education enable me to work efficiently under pressure, prioritize tasks, and respect project deadlines and budgets.
+<p align="justify"> Hey! I am Luciano! My extensive experience in understanding problems and recommending solutions captivated me by the potential of data science to recommend solutions to improve organizations' products and services. I seek innovative strategies to enhance efficiency, and data science has the resources to discover valuable insights from any business data. I am a permanent resident of Canada, transitioning from academia to the Canadian corporate environment, and my experience and data science education enable me to work efficiently under pressure, prioritize tasks, and respect project deadlines and budgets. </p>
 
 ### :mortar_board: Academic Background <a class="anchor" id="academic"></a> 
 [TOC](#top)
 
-Before transitioning into Data Science, I spent 13 years as a software developer and over 10 years in academia. I did a BSc in Computer Science, an M.Sc., and a  D.Sc. in Science with enfaces in Artificial Intelligence. Throughout my academic years, I acquired a wide range of hard and soft skills that are assets for industry. Some of these skills are as follows:
+<p align="justify"> Before transitioning into Data Science, I spent 13 years as a software developer and over 10 years in academia. I did a BSc in Computer Science, an M.Sc., and a  D.Sc. in Science with enfaces in Artificial Intelligence. Throughout my academic years, I acquired a wide range of hard and soft skills that are assets for industry. Some of these skills are as follows: </p>
 
 * ghgh
 
@@ -26,29 +26,28 @@ Before transitioning into Data Science, I spent 13 years as a software developer
 ### <img align="left" src="https://github.com/lucianoandrade1/media/blob/main/whatsappicon.png" width="3%" height="3%"/> BrainStation Industry Project | $\color{green}{WhatsApp}$ <a class="anchor" id="hackathon"></a>
 [TOC](#top)
 
-The Industry Project is a 24-hour collaborative tech sprint challenging BrainStation students to create a digital solution for one of BrainStation’s Industry Partners. This experience is an opportunity to showcase our skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams.
+<p align="justify"> The Industry Project is a 24-hour collaborative tech sprint challenging BrainStation students to create a digital solution for one of BrainStation’s Industry Partners. This experience is an opportunity to showcase our skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams. </p>
 
 <img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="50%" height="50%"/>
 
-<p align="justify"> The industry Partner was WhatsApp, an instant messaging service that does not require cell data. It is reported to have more than 2 billion monthly active users globally and is one of the world's most popular mobile messenger apps. Allows users to send text, voice, and video messages, make voice and video calls, and share images, documents, user locations, and other content. More than 100 billion messages are sent each day on WhatsApp. 
- </p>
+<p align="justify"> The industry Partner was WhatsApp, an instant messaging service that does not require cell data. It is reported to have more than 2 billion monthly active users globally and is one of the world's most popular mobile messenger apps. Allows users to send text, voice, and video messages, make voice and video calls, and share images, documents, user locations, and other content. More than 100 billion messages are sent each day on WhatsApp.  </p>
 
-The problem statement was: How might we encourage the adoption to increase the usage of messaging apps for a particular demographic?" We were challenged to create a new feature for the student's target audience, improve upon one already existing, or pitch a new strategy to reach students.
+<p align="justify"> The problem statement was: How might we encourage the adoption to increase the usage of messaging apps for a particular demographic?" We were challenged to create a new feature for the student's target audience, improve upon one already existing, or pitch a new strategy to reach students. </p>
   
 <img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="70%" height="70%"/>
 
-After brainstorming with the group members, we came up with the idea of creating WhatsApp Clubs. It is a type of WhatsApp public group that attracts new users with exciting content generated by the current users. The example presented was about a new student arriving at a school. She looks at a WhatsApp club on a poster on the wall, scans a bar code, and starts interacting with the other members of the club, for example, about playing chees. These clubs would attract more WhatsApp users and encourage the students to meet each other at the school.
+<p align="justify"> After brainstorming with the group members, we came up with the idea of creating WhatsApp Clubs. It is a type of WhatsApp public group that attracts new users with exciting content generated by the current users. The example presented was about a new student arriving at a school. She looks at a WhatsApp club on a poster on the wall, scans a bar code, and starts interacting with the other members of the club, for example, about playing chees. These clubs would attract more WhatsApp users and encourage the students to meet each other at the school. </p>
 
 ### :credit_card: BrainStation Capstone Project | [Credit and Debit Card Fraud Detection](https://github.com/lucianoandrade1/Credit-and-Debit-Card-Fraud-Detection) <a class="anchor" id="capstone"></a>
 [TOC](#top)
 
 <img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/CreditCardPurchase.png" width="50%" height="50%"/>
 
-Credit card fraud occurs when a customer uses a third party's credit card or information to make unauthorized purchases or cash advances. Credit card fraud happens both online and in physical stores. Merchants can avoid problems and bad reputations when they identify fraudulent use of credit cards in their payment environment. Credit card fraud detection is critical for companies to safeguard their customers' purchases and funds by detecting fraud before or as it occurs.
+<p align="justify"> Credit card fraud occurs when a customer uses a third party's credit card or information to make unauthorized purchases or cash advances. Credit card fraud happens both online and in physical stores. Merchants can avoid problems and bad reputations when they identify fraudulent use of credit cards in their payment environment. Credit card fraud detection is critical for companies to safeguard their customers' purchases and funds by detecting fraud before or as it occurs.
 
 It's not always straightforward to agree on what fraud means. Regardless of how you define fraud, most payments are not fraudulent. Most merchants aren't experts at estimating the business impact of fraud.
 
-Using Machine Learning for credit card fraud detection is an opportunity to create more efficient systems to avoid fraud. These systems will prevent fraud and avoid accusing legitimate purchases of fraud, too. This scenario will give the merchants more credibility, generating higher profits.
+Using Machine Learning for credit card fraud detection is an opportunity to create more efficient systems to avoid fraud. These systems will prevent fraud and avoid accusing legitimate purchases of fraud, too. This scenario will give the merchants more credibility, generating higher profits. </p>
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
 [TOC](#top)
