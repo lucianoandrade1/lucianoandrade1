@@ -33,6 +33,8 @@ The Purpose
 This experience is an opportunity to showcase your skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams.
 More than anything, you are preparing and building skills to succeed in the future of work.
 
+<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="50%" height="50%"/>
+
 Why Collaborate?
 
 The dynamics of modern labour  are forcing businesses, especially those with a focus in tech, to place ever-greater emphasis on collaboration & flexibility. 
@@ -46,7 +48,7 @@ WhatsApp
 - Allows users to send text, voice messages and video messages, make voice and video calls, and share images, documents, user locations, and other content.
 - More than 100 billion messages are sent each day on WhatsApp.
   
-<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="50%" height="50%"/>
+<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="70%" height="70%"/>
      
 Problem statement
 
