@@ -30,7 +30,8 @@ The Industry Project is a 24-hour collaborative tech sprint challenging BrainSta
 
 <img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="50%" height="50%"/>
 
-The industry Partner was WhatsApp, an instant messaging service that does not require cell data. It is reported to have more than 2 billion monthly active users globally and is one of the world's most popular mobile messenger apps. Allows users to send text, voice, and video messages, make voice and video calls, and share images, documents, user locations, and other content. More than 100 billion messages are sent each day on WhatsApp. 
+<p align="justify"> The industry Partner was WhatsApp, an instant messaging service that does not require cell data. It is reported to have more than 2 billion monthly active users globally and is one of the world's most popular mobile messenger apps. Allows users to send text, voice, and video messages, make voice and video calls, and share images, documents, user locations, and other content. More than 100 billion messages are sent each day on WhatsApp. 
+ </p>
 
 The problem statement was: How might we encourage the adoption to increase the usage of messaging apps for a particular demographic?" We were challenged to create a new feature for the student's target audience, improve upon one already existing, or pitch a new strategy to reach students.
   
