@@ -17,7 +17,12 @@
 
 <p align="justify"> Before transitioning into Data Science, I spent 13 years as a software developer and over 10 years in academia. I did a BSc in Computer Science, an M.Sc., and a  D.Sc. in Science with enfaces in Artificial Intelligence. Throughout my academic years, I acquired a wide range of hard and soft skills that are assets for industry. Some of these skills are as follows: </p>
 
-* Database: <code>MySQL</code>
+- Programming Languages: <code>Python</code>, <code>R</code>, <code>SQL</code>
+- Data Analysis Libraries: <code>NumPy</code>, <code>Pandas</code>, <code>SciPy</code>
+- Visualization Tools: <code>Tableau</code>, <code>Power BI</code>, <code>Matplotlib</code>, <code>Plotly</code>, <code>Seaborn</code>, <code>Altair</code>
+- Statistical Analysis: <code>Hypothesis Testing</code>, <code>A/B tests</code>, <code>Parametric</code> and <code>non-Parametric tests</code>
+- Machine Learning Frameworks: <code>TensorFlow</code>, <code>Scikit-learn</code>, <code>XGBoost</code>, <code>PyTorch</code>
+- Big Data Technologies: <code>AWS</code>, <code>Hadoop</code>, <code>Spark</code>, <code>Hive</code>, <code>Docker</code>
 
 ### Projects <a class="anchor" id="projects">
 [TOC](#top)
