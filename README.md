@@ -33,7 +33,7 @@ The Purpose
 This experience is an opportunity to showcase your skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams.
 More than anything, you are preparing and building skills to succeed in the future of work.
 
-<img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="50%" height="50%"/>
+<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="50%" height="50%"/>
 
 Why Collaborate?
 
