@@ -3,8 +3,8 @@
 - [Introduction](#intro)
 - [Academic Background](#academic)
 - [Projects](#projects)
-    * [BrainStation Industry Project](#hackathon)
-    * [BrainStation Capstone Project](#capstone)
+    * [Industry Project](#hackathon)
+    * [Capstone Project](#capstone)
 - [Github statistics](#stats)
   
 ### :wave: Introduction <a class="anchor" id="intro"></a> 
