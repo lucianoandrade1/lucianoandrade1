@@ -33,11 +33,23 @@
 
 <p align="justify"> The Industry Project is a 24-hour collaborative tech sprint challenging BrainStation students to create a digital solution for one of BrainStation’s Industry Partners. This experience is an opportunity to showcase our skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams. </p>
 
-<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="70%" height="70%"/>
+<!--<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="70%" height="70%"/>-->
+
+
+<div align="center">
+      <a href="https://drive.google.com/file/d/1xV56I3Z2O3Ri1WYuPU8G9Zfpw-Jg94Jt/view?usp=sharing">
+     <img 
+      src="[https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg](https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png)" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+    
 
 <p align="justify"> The industry Partner was WhatsApp, an instant messaging service that does not require cell data. It is reported to have more than 2 billion monthly active users globally and is one of the world's most popular mobile messenger apps. Allows users to send text, voice, and video messages, make voice and video calls, and share images, documents, user locations, and other content. More than 100 billion messages are sent each day on WhatsApp.  </p>
 
 <p align="justify"> The problem statement was: How might we encourage the adoption to increase the usage of messaging apps for a particular demographic?" We were challenged to create a new feature for the student's target audience, improve upon one already existing, or pitch a new strategy to reach students. </p>
+
   
 <img  align="left" src="https://github.com/lucianoandrade1/media/blob/main/LucianoAndradeWinner.png" width="70%" height="70%"/>
 
