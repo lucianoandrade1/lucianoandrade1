@@ -36,7 +36,8 @@
 [![img_tag](https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png)](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)
 -->
 
-<video src="https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing" width="320" height="240" controls></video>
+<iframe src="https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 
 
 
