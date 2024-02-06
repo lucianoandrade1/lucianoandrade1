@@ -36,7 +36,7 @@
 [![img_tag](<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="50%" height="50%"/>)](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)
 
 
-<img  align="right" src="[https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)" width="50%" height="50%"/>
+<img  align="right" src="https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing" width="50%" height="50%"/>
 
 <p align="justify"> The industry Partner was WhatsApp, an instant messaging service that does not require cell data. It is reported to have more than 2 billion monthly active users globally and is one of the world's most popular mobile messenger apps. Allows users to send text, voice, and video messages, make voice and video calls, and share images, documents, user locations, and other content. More than 100 billion messages are sent each day on WhatsApp.  </p>
 
