@@ -36,7 +36,7 @@
 <!--<img  align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" width="70%" height="70%"/>-->
 
 
-<div align="right">
+<div style="text-align: right" align="right">
       <a href="https://drive.google.com/file/d/1xV56I3Z2O3Ri1WYuPU8G9Zfpw-Jg94Jt/view?usp=sharing">
      <img align="right" src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" alt="Everything Is AWESOME"">
       </a>
