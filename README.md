@@ -32,10 +32,11 @@
 [TOC](#top)
 
 <p align="justify"> The Industry Project is a 24-hour collaborative tech sprint challenging BrainStation students to create a digital solution for one of BrainStation’s Industry Partners. This experience is an opportunity to showcase our skills, learn new concepts from peers, and practice communication and remote work in cross-functional teams. </p>
-
+<!--
 [![img_tag](https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png)](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)
+-->
 
-
+<iframe width="420" height="315" src="https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing"></iframe>
 
 <img  align="right" src="https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing" width="50%" height="50%"/>
 
