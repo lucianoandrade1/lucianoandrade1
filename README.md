@@ -36,7 +36,7 @@
 [![img_tag](https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png)](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)
 -->
 
-[![IMAGE_ALT](https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png) width="50%" height="50%"](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)
+[![IMAGE_ALT](https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png)](https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing)
 
 <img  align="right" src="https://drive.google.com/file/d/1IK-ku0wZHa_SYmNiV6KsOHOdBjBYHTxP/view?usp=sharing" width="50%" height="50%"/>
 
