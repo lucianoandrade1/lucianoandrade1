@@ -38,7 +38,7 @@
 
 <div align="center">
       <a href="https://drive.google.com/file/d/1xV56I3Z2O3Ri1WYuPU8G9Zfpw-Jg94Jt/view?usp=sharing">
-     <img src="(https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" alt="Everything Is AWESOME"">
+     <img src="https://github.com/lucianoandrade1/media/blob/main/WhatsAppClubs.png" alt="Everything Is AWESOME"">
       </a>
     </div>
     
