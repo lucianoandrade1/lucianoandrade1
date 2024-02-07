@@ -61,6 +61,8 @@
 
 <p align="justify"> It's not always straightforward to agree on what fraud means. Regardless of how you define fraud, most payments are not fraudulent. Most merchants aren't experts at estimating the business impact of fraud. </p>
 
+<p align="justify"> For more than 52 years, the Nilson Report has been the most respected provider of data and news about the payment card industry. According to them, payment card fraud losses worldwide exceeded $32 billion in 2021. Fraud losses worldwide increased by 14% in 2021 compared to 2020. Over the next ten years, the industry is projected to lose an accumulated $397 billion worldwide. </p>
+
 <p align="justify"> Using Machine Learning for credit card fraud detection is an opportunity to create more efficient systems to avoid fraud. These systems will prevent fraud and avoid accusing legitimate purchases of fraud, too. This scenario will give the merchants more credibility, generating higher profits. </p>
 
 ### Github statistics  <a class="anchor" id="stats"></a> 
